@@ -1,0 +1,23 @@
+{
+  "name": "Task 2",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "template-engine",
+    "handlebars"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "angular-expressions": "^0.3.0",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-handlebars": "latest"
+  }
+}
